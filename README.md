@@ -67,21 +67,9 @@ uvicorn main:app --reload
 Once the server is running:
 
 - Swagger UI: http://127.0.0.1:8000/docs
-- ReDoc: http://127.0.0.1:8000/redoc
 
-## Project Structure
 
-```text
-.
-├── app/
-│   ├── database.py
-│   ├── models.py
-│   ├── schemas.py
-│   ├── routers/
-│   └── main.py
-├── requirements.txt
-└── README.md
-```
+
 
 ## What I Learned
 
